@@ -1,7 +1,7 @@
 # 9) Take a string and return the no of words in it 
 
 
-string = "When you have a dream, you've got to grab it and never let go."
+string = input("Enter a sentence to check the no of words in it: ")
 
 string = string.split(' ')
 
